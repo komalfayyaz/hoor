@@ -1,0 +1,15 @@
+.div2{
+    margin: 40%;
+}
+
+.card{
+    margin-top: 30%;
+    box-sizing: border-box;
+    border-style: inline;
+} 
+.style{
+    border-radius: 5rem;
+    border: 5px;
+    border-style: solid;
+
+}
